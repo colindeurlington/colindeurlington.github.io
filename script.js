@@ -49,7 +49,7 @@ work:`
 `,
 
 research:`
-<h2 style="text-align:center"><a href="https://escholarship.org/uc/item/4c3845t1#main">Dissertation</a></h2>
+<h2 style="text-align:center"><a href="https://escholarship.org/uc/item/4c3845t1#main"><button>Dissertation</button></a></h2>
 
 <div class="columns">
     <div class="column">
