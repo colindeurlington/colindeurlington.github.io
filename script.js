@@ -49,13 +49,11 @@ work:`
 `,
 
 research:`
-<h2>
-    <a href="https://escholarship.org/uc/item/4c3845t1#main">
-        <button style="width: 50px; height: 30px; text-align:center; font-size:26px; background-color:#203b51; color:white">
-            Dissertation
+        <button 
+            onclick="window.location.href = https://escholarship.org/uc/item/4c3845t1#main" 
+            style="width: 50px; height: 30px; text-align:center; font-size:26px; background-color:#203b51; color:white">
+                Dissertation
         </button>
-    </a>
-</h2>
 
 <div class="columns">
     <div class="column">
