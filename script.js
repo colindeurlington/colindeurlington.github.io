@@ -50,7 +50,7 @@ work:`
 
 research:`
 <div style="display:flex; justify-content:center; align-items:center;">
-        <button id="dissertationButton" onclick="window.location.href = 'https://escholarship.org/uc/item/4c3845t1#main'">
+        <button class="dissertationButton" onclick="window.location.href = 'https://escholarship.org/uc/item/4c3845t1#main'">
                 Dissertation
         </button>
 </div>
