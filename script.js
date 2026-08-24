@@ -52,12 +52,15 @@ research:`
 <div style="display:flex; justify-content:center; align-items:center;">
         <button 
             onclick="window.location.href = 'https://escholarship.org/uc/item/4c3845t1#main'" 
-            style="width: 175px; height: 50px; text-align:center; font-size:30px; background-color:#203b51; button-hover:#e5e4e2; color:white; padding:25px;
+            style="width: 175px; height: 50px; text-align:center; font-size:30px; background-color:#203b51; button-hover:#e5e4e2; color:white;
       border:3px solid #ccc;
-      border-radius: 5px;">
+      border-radius:5px;
+      cursor:pointer">
                 Dissertation
         </button>
 </div>
+
+<br>
 
 <div class="columns">
     <div class="column">
