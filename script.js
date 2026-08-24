@@ -92,6 +92,7 @@ research:`
             as a predictive concept. Overall, our findings support a measured approach to using
             the Conjectural Equilibrium concept to obtain predictions in limited-feedback settings.</i>
         </p>
+        <hr style="margin-left:12.5%; width:75%;">
         <p style="font-size:12px; text-align:center"><a href="https://osf.io/pbk6w/overview">Pre-registration, experiment software, and data analysis</a></p>
     </div>
 
@@ -115,7 +116,7 @@ research:`
     </div>
 </div>
 
-<br>
+        <hr style="margin-left:12.5%; width:75%;">
 
 <h2 style="text-align:center">Other Working Papers</h2>
 
