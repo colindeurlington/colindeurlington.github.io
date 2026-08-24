@@ -49,9 +49,9 @@ work:`
 `,
 
 research:`
-<h2 style="text-align:center; font-size:26px; background-color:#203b51; color:white">
+<h2>
     <a href="https://escholarship.org/uc/item/4c3845t1#main">
-        <button>
+        <button style="text-align:center; font-size:26px; background-color:#203b51; color:white">
             Dissertation
         </button>
     </a>
