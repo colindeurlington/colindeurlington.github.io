@@ -253,7 +253,7 @@ margin-bottom:10px;
 
 
 /* ---------- research page stuff ---------- */
-dissertationButton {
+.dissertationButton {
   width: 175px; 
   height: 50px; 
   text-align: center; 
@@ -262,9 +262,9 @@ dissertationButton {
   color: white;
   border:3px solid #ccc;
   border-radius:5px;
-  cursor:pointer
+  cursor:pointer;
 }
-dissertationButton:hover {
+.dissertationButton:hover {
   background-color: #e5e4e2;
   color: black;
 }
