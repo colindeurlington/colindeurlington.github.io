@@ -49,10 +49,10 @@ work:`
 `,
 
 research:`
-<div>
+<div style="display:flex; justify-content:center; align-items:center;">
         <button 
             onclick="window.location.href = https://escholarship.org/uc/item/4c3845t1#main" 
-            style="width: 50px; height: 30px; text-align:center; font-size:26px; background-color:#203b51; color:white">
+            style="width: 150px; height: 50px; text-align:center; font-size:30px; background-color:#203b51; color:white">
                 Dissertation
         </button>
 </div>
