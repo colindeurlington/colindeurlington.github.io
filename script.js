@@ -49,11 +49,17 @@ work:`
 `,
 
 research:`
-<h2 style="text-align:center"><a href="https://escholarship.org/uc/item/4c3845t1#main"><button>Dissertation</button></a></h2>
+<h2 style="text-align:center; font-size:26px; background-color:#203b51; color:white">
+    <a href="https://escholarship.org/uc/item/4c3845t1#main">
+        <button>
+            Dissertation
+        </button>
+    </a>
+</h2>
 
 <div class="columns">
     <div class="column">
-        <h3 style="font-size:18px; text-align:center">Defense and Connectivity of Weakest-Link Networks</h2>
+        <h3 style="font-size:18px; text-align:center;">Defense and Connectivity of Weakest-Link Networks</h2>
         <p style="font-size:12px; text-align:center;">C. Deurlington</p>
         <hr style="margin-left:12.5%; width:75%;">
         <br>
