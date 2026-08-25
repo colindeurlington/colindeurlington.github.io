@@ -157,6 +157,8 @@ teaching:`
 <p><b>International Trade & Commercial Policy</b> &#9672 UC Irvine ECON 167 &#9672 Summer II 2021</p>
 
 <br>
+<hr style="margin-left:12.5%; width:75%;">
+<br>
 
 <h2 style="text-align:center">Select Testimonials</h2>
 
