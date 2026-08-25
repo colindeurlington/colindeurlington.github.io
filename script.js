@@ -59,7 +59,7 @@ research:`
 
 <div class="columns">
     <div class="column">
-        <h3 style="font-size:18px; text-align:center;">Defense and Connectivity of Weakest-Link Networks</h2>
+        <h3 style="font-size:18px; text-align:center;">Defense and Connectivity of Weakest-Link Networks</h3>
         <p style="font-size:12px; text-align:center;">C. Deurlington</p>
         <hr style="margin-left:12.5%; width:75%;">
         <br>
@@ -77,7 +77,7 @@ research:`
     </div>
 
     <div class="column">
-        <h3 style="font-size:18px; text-align:center">An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h2>
+        <h3 style="font-size:18px; text-align:center">An Experimental Study of Conjectural Equilibrium: Limited Feedback in a Threshold Public Good Game</h3>
         <p style="font-size:12px; text-align:center;">M. McBride, C. Deurlington</p>
         <hr style="margin-left:12.5%; width:75%;">
         <br>
@@ -93,11 +93,12 @@ research:`
             the Conjectural Equilibrium concept to obtain predictions in limited-feedback settings.</i>
         </p>
         <hr style="margin-left:12.5%; width:75%;">
+        <br>
         <p style="font-size:12px; text-align:center"><a href="https://osf.io/pbk6w/overview">Pre-registration, experiment software, and data analysis</a></p>
     </div>
 
     <div class="column">
-        <h3 style="font-size:18px; text-align:center">Cybersecurity Measures and Incident Frequency: Evidence from the UK</h2>
+        <h3 style="font-size:18px; text-align:center">Cybersecurity Measures and Incident Frequency: Evidence from the UK</h3>
         <p style="font-size:12px; text-align:center;">C. Deurlington</p>
         <hr style="margin-left:12.5%; width:75%;">
         <br>
@@ -116,20 +117,32 @@ research:`
     </div>
 </div>
 
-        <hr style="margin-left:12.5%; width:75%;">
+<br>
+<hr style="margin-left:12.5%; width:75%;">
+<br>
 
 <h2 style="text-align:center">Other Working Papers</h2>
 
-<p>C. Deurlington, E. Fisher, “Dynamic Level-k Thinking in the El Farol Bar Problem”</p>
-<p style="font-size:12px; margin-left:5%;"><i>The El Farol Bar problem is a classic N-person anti-coordination game. 
-Patrons independently decide whether to attend a venue with limited capacity; if too many arrive, each would prefer to have stayed home. 
-We study a dynamic model of level-k thinking in which agents may randomly become one level more sophisticated over time. 
-Short-run behavior depends on the rate at which agents upgrade their reasoning. 
-In the long run, attendance is characterized by a binomial distribution with mean N/2, independent of preference parameters. 
-We extend the analysis to a model of cognitive hierarchy and show that convergence to the mixed-strategy equilibrium occurs 
-only on a set of initial conditions of measure zero.</i></p>
-<p style="font-size:12px; margin-left:5%;"><a href="https://cdeurlington.shinyapps.io/El_Farol_Trial/">Supporting R Shiny application<a> (developed during Undergraduate Thesis)</p>
-
+<div class="columns">
+    <div class="column">
+        <h3 style="font-size:18px; text-align:center">Dynamic Level-k Thinking in the El Farol Bar Problem</h3>
+        <p style="font-size:12px; text-align:center;">C. Deurlington, E. Fisher</p>
+        <hr style="margin-left:12.5%; width:75%;">
+        <br>
+        <p style="font-size:12px; text-align:center; width:95%;">
+                <i>The El Farol Bar problem is a classic N-person anti-coordination game. 
+                Patrons independently decide whether to attend a venue with limited capacity; if too many arrive, each would prefer to have stayed home. 
+                We study a dynamic model of level-k thinking in which agents may randomly become one level more sophisticated over time. 
+                Short-run behavior depends on the rate at which agents upgrade their reasoning. 
+                In the long run, attendance is characterized by a binomial distribution with mean N/2, independent of preference parameters. 
+                We extend the analysis to a model of cognitive hierarchy and show that convergence to the mixed-strategy equilibrium occurs 
+                only on a set of initial conditions of measure zero.</i>
+        </p>
+        <hr style="margin-left:12.5%; width:75%;">
+        <br>
+        <p style="font-size:12px; text-align:center"><a href="https://cdeurlington.shinyapps.io/El_Farol_Trial/">Supporting R Shiny application<a> (developed during Undergraduate Thesis)</p>
+    </div>
+</div>
 `,
 
 teaching:`
