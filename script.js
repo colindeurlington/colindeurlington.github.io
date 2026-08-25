@@ -123,7 +123,6 @@ research:`
 
 <h2 style="text-align:center">Other Working Papers</h2>
 
-<div class="columns">
     <div class="column">
         <h3 style="font-size:18px; text-align:center">Dynamic Level-k Thinking in the El Farol Bar Problem</h3>
         <p style="font-size:12px; text-align:center;">C. Deurlington, E. Fisher</p>
@@ -142,7 +141,7 @@ research:`
         <br>
         <p style="font-size:12px; text-align:center"><a href="https://cdeurlington.shinyapps.io/El_Farol_Trial/">Supporting R Shiny application<a> (developed during Undergraduate Thesis)</p>
     </div>
-</div>
+    
 `,
 
 teaching:`
