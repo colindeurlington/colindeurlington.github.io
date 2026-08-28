@@ -34,7 +34,7 @@ work:`
 
 <h2 style="text-align:center">University of California, Irvine</h2>
 
-<p>Junior Specialist &#9672 Sep 2024 — Present</p>
+<p>Junior Specialist &#9672 <i style="color:gray;">Sep 2024 — Present</i></p>
 
 <p>Teaching Assistant &#9672 Oct 2020 — Jun 2024</p>
 
