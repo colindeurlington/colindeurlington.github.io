@@ -34,9 +34,10 @@ work:`
 
 <h2 style="text-align:center">University of California, Irvine</h2>
 
-<p>Junior Specialist &#9672 <i style="color:gray;">Sep 2024 — Present</i></p>
+<p>Junior Specialist &#9672 <i style="color:#696969; font-size:12px">Sep 2024 — Present</i></p>
+<p>&#9672 Economic Research, Experiment Design</p>
 
-<p>Teaching Assistant &#9672 Oct 2020 — Jun 2024</p>
+<p>Teaching Assistant &#9672 <i style="color:#696969; font-size:12px">Oct 2020 — Jun 2024</i></p>
 
 <p>Verano Residents’ Council Treasurer &#9672 Jul 2023 — Jun 2024</p>
 
