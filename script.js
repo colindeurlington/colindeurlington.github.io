@@ -35,7 +35,7 @@ work:`
 <h2 style="text-align:center">University of California, Irvine</h2>
 
 <p>Junior Specialist &#9672 <i style="color:#696969; font-size:12px">Sep 2024 — Present</i></p>
-<p>&#9672 Economic Research, Experiment Design</p>
+<p style="color:#696969; font-size:12px">&#9672 Economic Research, Experiment Design</p>
 
 <p>Teaching Assistant &#9672 <i style="color:#696969; font-size:12px">Oct 2020 — Jun 2024</i></p>
 
